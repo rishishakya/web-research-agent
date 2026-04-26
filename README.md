@@ -226,10 +226,6 @@ Some ideas to make this your own:
 
 ---
 
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
-
 ---
 
 ## 🙋 Author
